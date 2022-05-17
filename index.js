@@ -1,3 +1,5 @@
+//tutorial url: https://blog.nerdjfpb.com/how-to-build-simple-crud-restful-api-with-nodejs-expressjs-and-mongodb-in-2022/
+
 import 'dotenv/config';
 import Express from 'express';
 import Cors from 'cors';
